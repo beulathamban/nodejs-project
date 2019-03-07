@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beulathamban/nodejs-project.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "Beula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beulathamban/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/beulathamban/nodejs-project#readme"
+}
